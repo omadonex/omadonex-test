@@ -40,5 +40,8 @@
   },
   "files": [
     "lib/**/*"
-  ]
+  ],
+  "config": {
+    "unsafe-perm": true
+  }
 }
