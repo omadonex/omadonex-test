@@ -1,1 +1,3 @@
-export const Greeter = (yourName: string) => `Hello ${yourName}`;
+export { TranslateServiceInterface } from './interface/service/TranslateServiceInterface';
+
+//export { ValidateError } from './class/ValidateError';
