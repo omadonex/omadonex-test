@@ -1,3 +1,2 @@
 export { TranslateServiceInterface } from './interface/service/TranslateServiceInterface';
-
-//export { ValidateError } from './class/ValidateError';
+export { ValidateError } from './class/ValidateError';
